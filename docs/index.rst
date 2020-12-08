@@ -1,4 +1,4 @@
-Welcome to skeleton documentation!
+Welcome to keyrings.gauth documentation!
 ========================================
 
 .. toctree::
@@ -7,7 +7,7 @@ Welcome to skeleton documentation!
    history
 
 
-.. automodule:: skeleton
+.. automodule:: keyrings.gauth
     :members:
     :undoc-members:
     :show-inheritance:
