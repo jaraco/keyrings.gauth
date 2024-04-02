@@ -16,7 +16,6 @@ def get_token(username, password):
 
 
 class GoogleAuthBackend(backend.KeyringBackend):
-
     priority = 10
     """
     Higher priority than typical recommended backends.
